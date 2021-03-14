@@ -1,0 +1,24 @@
+{
+  "name": "discordbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@keyv/sqlite": "^2.0.2",
+    "bufferutil": "^4.0.3",
+    "discord.js": "^12.5.1",
+    "erlpack": "github:discord/erlpack",
+    "keyv": "^4.0.3",
+    "sequelize": "^6.5.0",
+    "sqlite3": "^5.0.2",
+    "utf-8-validate": "^5.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  }
+}
